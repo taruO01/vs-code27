@@ -1,3 +1,3 @@
-# git in vs code from empyt repo 
+# git in vs code from empty repo 
 
 let's make some changes !
